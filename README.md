@@ -1,6 +1,4 @@
 # git-learning
-This repo is made to lean github
+This repo is made to learn github
 
-hi i am prachi jain
-hvbdhugv9ewfohvd
-vue
+hi i am prachi garg
