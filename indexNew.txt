@@ -1,2 +1,3 @@
 this is my second index file 
-hii
+hello world this is stash learn text file
+a file checking program that will hellp learn github
